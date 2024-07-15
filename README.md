@@ -10,9 +10,9 @@ I’m a backend developer and DevOps enthusiast, passionate about building scala
 Check out my latest articles on [polymatx.dev](https://polymatx.dev/blog/about/):
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Continuous Deployment for a Simple React Application with Argo CD](https://polymatx.dev/blog/posts/implementing-continuous-deployment-for-a-simple-react-application-with-argo-cd/)
-- [Monitoring an EC2 Instance using Prometheus and Grafana](https://polymatx.dev/blog/posts/monitoring-an-ec2-instance-using-prometheus-and-grafana/)
-- [Installing a Kubernetes Cluster on AWS EKS using eksctl](https://polymatx.dev/blog/posts/installing-a-kubernetes-cluster-on-aws-eks-using-eksctl/)
+- [Building a Robust OAuth2 Authentication Microservice with Node.js, MySQL and Passport](https://polymatx.dev/blog/posts/auth2-service-nodejs/)
+- [Simple Chat Application with Golang and WebSocket](https://polymatx.dev/blog/posts/chat-application-with-golang-and-websockets/)
+- [Install ArgoCD in EKS and Set Up GitLab Integration For CI/CD](https://polymatx.dev/blog/posts/argocd/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
