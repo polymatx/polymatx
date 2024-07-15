@@ -2,7 +2,7 @@
 
 I’m a backend developer and DevOps enthusiast, passionate about building scalable systems and optimizing workflows. My expertise includes:
 
-- **Backend Development**: Proficient in Node.js, Python, and SQL databases.
+- **Backend Development**: Proficient in Node.js, PHP, Golang.
 - **DevOps**: Specializing in Kubernetes, Docker, CI/CD pipelines, and infrastructure automation.
 
 ### Latest Blog Posts
