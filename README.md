@@ -7,7 +7,7 @@ I’m a backend developer and DevOps enthusiast, passionate about building scala
 
 ### Latest Blog Posts
 
-Check out my latest articles on [polymatx.dev](https://polymatx.dev/blog/about/):
+Check out my latest articles on [polymatx.dev](https://polymatx.dev/blog/):
 
 <!-- BLOG-POST-LIST:START -->
 - [Building a Robust OAuth2 Authentication Microservice with Node.js, MySQL and Passport](https://polymatx.dev/blog/posts/auth2-service-nodejs/)
