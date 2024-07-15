@@ -13,6 +13,7 @@ Check out my latest articles on [polymatx.dev](https://polymatx.dev/blog/):
 - [Building a Robust OAuth2 Authentication Microservice with Node.js, MySQL and Passport](https://polymatx.dev/blog/posts/auth2-service-nodejs/)
 - [Simple Chat Application with Golang and WebSocket](https://polymatx.dev/blog/posts/chat-application-with-golang-and-websockets/)
 - [Install ArgoCD in EKS and Set Up GitLab Integration For CI/CD](https://polymatx.dev/blog/posts/argocd/)
+- [Installing/Setup Kubernetes Cluster with AWS EKS using eksctl](https://polymatx.dev/blog/posts/eks/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
