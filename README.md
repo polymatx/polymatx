@@ -5,7 +5,7 @@ I’m a backend developer and DevOps enthusiast, passionate about building scala
 - **Backend Development**: Node.js, PHP, Golang.
 - **DevOps**: Specializing in Kubernetes, Docker, CI/CD pipelines, and infrastructure automation.
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=polymatx&layout=compact&langs_count=8&hide=ruby,vimscript,vue,scss,html)
+![](https://raw.githubusercontent.com/polymatx/github-stats/master/generated/languages.svg)
 
 ### Latest Blog Posts
 
