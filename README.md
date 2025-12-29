@@ -28,6 +28,9 @@ I’m a backend developer and DevOps enthusiast, passionate about building scala
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
+
+![Metrics](https://raw.githubusercontent.com/polymatx/polymatx/main/github-metrics.svg)
+
 ### Latest Blog Posts
 
 Check out my latest articles on [polymatx.dev](https://polymatx.dev/blog/):
