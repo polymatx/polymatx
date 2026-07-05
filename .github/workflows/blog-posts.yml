@@ -1,0 +1,22 @@
+name: Update Blog Posts
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Pull latest posts from polymatx.dev
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://polymatx.dev/blog/posts/index.xml"
+          max_post_count: 6
+          committer_username: "polymatx"
+          committer_email: "farid.vosoughi.65@gmail.com"

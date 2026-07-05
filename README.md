@@ -1,7 +1,7 @@
 ## Hi there, I'm Polymatx
 
 I'm a backend developer and DevOps enthusiast, passionate about building scalable systems and optimizing workflows. My expertise includes:
-- **Backend Development**: Node.js, PHP, Golang.
+- **Backend Development**: Node.js (JavaScript/TypeScript), Go, PHP, Python.
 - **DevOps**: Specializing in Kubernetes, Docker, CI/CD pipelines, and infrastructure automation.
 
 ## Tech Stack
@@ -19,7 +19,7 @@ I'm a backend developer and DevOps enthusiast, passionate about building scalabl
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS](https://raw.githubusercontent.com/polymatx/polymatx/main/badges/aws.svg)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 
@@ -39,10 +39,12 @@ I'm a backend developer and DevOps enthusiast, passionate about building scalabl
 Check out my latest articles on [polymatx.dev](https://polymatx.dev/blog/):
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Rock-Solid MongoDB Sharded Cluster with Docker: A Real-World Guide](https://polymatx.dev/blog/posts/mongodb-sharded-cluster-docker/)
+- [My Journey Setting Up a Production MongoDB Cluster with Docker](https://polymatx.dev/blog/posts/mongodb-replica/)
+- [Setting Up a High-Performance RabbitMQ Cluster with Docker](https://polymatx.dev/blog/posts/rabbitmq-cluster/)
 - [Building a Robust OAuth2 Authentication Microservice with Node.js, MySQL and Passport](https://polymatx.dev/blog/posts/auth2-service-nodejs/)
 - [Simple Chat Application with Golang and WebSocket](https://polymatx.dev/blog/posts/chat-application-with-golang-and-websockets/)
 - [Install ArgoCD in EKS and Set Up GitLab Integration For CI/CD](https://polymatx.dev/blog/posts/argocd/)
-- [Installing/Setup Kubernetes Cluster with AWS EKS using eksctl](https://polymatx.dev/blog/posts/eks/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
