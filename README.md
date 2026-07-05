@@ -39,12 +39,12 @@ I'm a backend developer and DevOps enthusiast, passionate about building scalabl
 Check out my latest articles on [polymatx.dev](https://polymatx.dev/blog/):
 
 <!-- BLOG-POST-LIST:START -->
+- [GoFrame: A Batteries-Included Go Web Framework I Built for Real Projects](https://polymatx.dev/blog/posts/goframe-batteries-included-go-web-framework/)
 - [Weave: I Built a TypeScript-Native Agent Orchestrator &lpar;And Why You Might Want One&rpar;](https://polymatx.dev/blog/posts/weave-typescript-agent-orchestrator/)
 - [Building a Rock-Solid MongoDB Sharded Cluster with Docker: A Real-World Guide](https://polymatx.dev/blog/posts/mongodb-sharded-cluster-docker/)
 - [My Journey Setting Up a Production MongoDB Cluster with Docker](https://polymatx.dev/blog/posts/mongodb-replica/)
 - [Setting Up a High-Performance RabbitMQ Cluster with Docker](https://polymatx.dev/blog/posts/rabbitmq-cluster/)
 - [Building a Robust OAuth2 Authentication Microservice with Node.js, MySQL and Passport](https://polymatx.dev/blog/posts/auth2-service-nodejs/)
-- [Simple Chat Application with Golang and WebSocket](https://polymatx.dev/blog/posts/chat-application-with-golang-and-websockets/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
