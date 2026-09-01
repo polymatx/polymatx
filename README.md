@@ -30,6 +30,13 @@ I'm a backend developer and DevOps enthusiast, passionate about building scalabl
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
+## Featured Projects
+
+- **[dibs](https://github.com/polymatx/dibs)** — Call dibs on files: coordination for parallel AI coding agents. File claims with expiry, enforcement hooks that block colliding edits, and git-native lessons. One Go binary, no server, no database. Listed in [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers).
+- **[opsgate](https://github.com/polymatx/opsgate)** — The safety gate between AI agents and your servers: 25 typed MCP tools, deny-by-default policy, human approval, hash-chained audit log.
+- **[weave](https://github.com/polymatx/weave)** — TypeScript-native multi-agent workflow framework: type-safe graphs, MCP tools, SQLite tracing, checkpoints, per-run budgets.
+- **[goframe](https://github.com/polymatx/goframe)** — Batteries-included Go web framework: routing, auth, four databases, Redis, RabbitMQ/MQTT, websockets.
+
 ## GitHub Stats
 
 ![Metrics](https://raw.githubusercontent.com/polymatx/polymatx/main/github-metrics.svg)
