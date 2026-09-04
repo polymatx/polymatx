@@ -46,12 +46,12 @@ I'm a backend developer and DevOps enthusiast, passionate about building scalabl
 Check out my latest articles on [polymatx.dev](https://polymatx.dev/blog/):
 
 <!-- BLOG-POST-LIST:START -->
+- [MongoDB Clustering with Docker: The Complete Guide](https://polymatx.dev/blog/posts/mongodb-clustering-with-docker/)
+- [Postgres High Availability Without Kubernetes: Patroni, etcd, PgBouncer and pgBackRest on Hetzner](https://polymatx.dev/blog/posts/postgres-ha-patroni-hetzner/)
 - [Why Parallel Coding Agents Need a Coordination Layer &lpar;So I Built Dibs&rpar;](https://polymatx.dev/blog/posts/dibs-coordination-for-parallel-coding-agents/)
 - [GoFrame: A Batteries-Included Go Web Framework I Built for Real Projects](https://polymatx.dev/blog/posts/goframe-batteries-included-go-web-framework/)
 - [Weave: I Built a TypeScript-Native Agent Orchestrator &lpar;And Why You Might Want One&rpar;](https://polymatx.dev/blog/posts/weave-typescript-agent-orchestrator/)
 - [Building a Rock-Solid MongoDB Sharded Cluster with Docker: A Real-World Guide](https://polymatx.dev/blog/posts/mongodb-sharded-cluster-docker/)
-- [My Journey Setting Up a Production MongoDB Cluster with Docker](https://polymatx.dev/blog/posts/mongodb-replica/)
-- [Setting Up a High-Performance RabbitMQ Cluster with Docker](https://polymatx.dev/blog/posts/rabbitmq-cluster/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
