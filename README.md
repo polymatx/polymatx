@@ -47,7 +47,7 @@ Check out my latest articles on [polymatx.dev](https://polymatx.dev/blog/):
 
 <!-- BLOG-POST-LIST:START -->
 - [MongoDB Clustering with Docker: The Complete Guide](https://polymatx.dev/blog/posts/mongodb-clustering-with-docker/)
-- [Postgres High Availability, Explained Simply: Two Servers, a Referee, and a Rewind Button](https://polymatx.dev/blog/posts/postgres-ha-patroni-hetzner/)
+- [Postgres High Availability on Hetzner, Step by Step: Patroni, etcd, PgBouncer, pgBackRest and a Load Balancer](https://polymatx.dev/blog/posts/postgres-ha-patroni-hetzner/)
 - [Why Parallel Coding Agents Need a Coordination Layer &lpar;So I Built Dibs&rpar;](https://polymatx.dev/blog/posts/dibs-coordination-for-parallel-coding-agents/)
 - [GoFrame: A Batteries-Included Go Web Framework I Built for Real Projects](https://polymatx.dev/blog/posts/goframe-batteries-included-go-web-framework/)
 - [Weave: I Built a TypeScript-Native Agent Orchestrator &lpar;And Why You Might Want One&rpar;](https://polymatx.dev/blog/posts/weave-typescript-agent-orchestrator/)
