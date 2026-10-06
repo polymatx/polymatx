@@ -1,18 +1,18 @@
-## Hi, I'm Farid
+## Hi there, I'm Polymatx
 
-Backend & DevOps engineer in Istanbul, building infrastructure for AI agents: safe server access for agents ([opsgate](https://github.com/polymatx/opsgate)), coordination for parallel coding agents ([dibs](https://github.com/polymatx/dibs)), and type-safe agent workflows ([weave](https://github.com/polymatx/weave)).
-
-Day to day I work in Go, Node.js/TypeScript, PHP and Python, and run what I build on Kubernetes and Docker with Terraform, Ansible and CI/CD.
+I'm a backend developer and DevOps enthusiast, passionate about building scalable systems and optimizing workflows. My expertise includes:
+- **Backend Development**: Node.js (JavaScript/TypeScript), Go, PHP, Python.
+- **DevOps**: Specializing in Kubernetes, Docker, CI/CD pipelines, and infrastructure automation.
 
 ## Tech Stack
 
 **Languages:**
 
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **DevOps & Infrastructure:**
 
