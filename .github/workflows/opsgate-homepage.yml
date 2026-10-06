@@ -1,0 +1,19 @@
+name: Set opsgate homepage
+
+on:
+  push:
+    branches: [main]
+    paths: [".github/workflows/opsgate-homepage.yml"]
+
+permissions:
+  contents: read
+
+jobs:
+  homepage:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Point opsgate homepage at the blog post
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: |
+          gh api -X PATCH repos/polymatx/opsgate -f homepage="https://polymatx.dev/blog/posts/opsgate-ai-agents-without-a-shell/" --jq '"opsgate: " + .homepage'
