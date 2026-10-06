@@ -1,0 +1,20 @@
+name: Set dibs and opsgate homepages
+
+on:
+  push:
+    branches: [main]
+    paths: [".github/workflows/repo-homepages.yml"]
+
+permissions:
+  contents: read
+
+jobs:
+  homepages:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set homepages
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: |
+          gh api -X PATCH repos/polymatx/dibs -f homepage="https://polymatx.dev/blog/posts/dibs-coordination-for-parallel-coding-agents/" --jq '"dibs: " + .homepage'
+          gh api -X PATCH repos/polymatx/opsgate -f homepage="https://pkg.go.dev/github.com/polymatx/opsgate" --jq '"opsgate: " + .homepage'
