@@ -1,0 +1,30 @@
+name: Create hetzner-postgres-ha
+
+on:
+  push:
+    branches: [main]
+    paths: [".github/workflows/create-hetzner-postgres-ha.yml"]
+
+permissions:
+  contents: read
+
+jobs:
+  create:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create the public repository with description, homepage and topics
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: |
+          if gh api repos/polymatx/hetzner-postgres-ha --jq .full_name 2>/dev/null; then
+            echo "already exists"
+          else
+            gh api user/repos -f name=hetzner-postgres-ha -F private=false -F has_wiki=false -F has_projects=false --jq '"created: " + .html_url'
+          fi
+          gh api -X PATCH repos/polymatx/hetzner-postgres-ha \
+            -f description="One command for a production-grade PostgreSQL HA cluster on Hetzner Cloud: Patroni, etcd, PgBouncer, pgBackRest and a private Hetzner Load Balancer, with Terraform, Ansible and a failover test." \
+            -f homepage="https://polymatx.dev/blog/posts/postgres-ha-patroni-hetzner/" \
+            --jq '"homepage: " + .homepage + " | private: " + (.private | tostring)'
+          gh api -X PUT repos/polymatx/hetzner-postgres-ha/topics --input - --jq '"topics: " + (.names | join(", "))' <<'JSON'
+          {"names":["postgresql","postgres","patroni","etcd","pgbouncer","pgbackrest","hetzner","hetzner-cloud","terraform","ansible","high-availability","failover","replication","database","devops","infrastructure-as-code"]}
+          JSON
